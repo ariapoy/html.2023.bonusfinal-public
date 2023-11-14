@@ -127,9 +127,10 @@ Have you exhaustively presented your arguments?
 - If Yes, please say, 'I am ready to deliver my closing statements.'
 - If No, please provide your arguments on the five debate topics.
 ### B (End or continue.)
-- Agent-B, These are arguments from Agent-B:
+Agent-B, These are arguments from Agent-B:
   `copy and paste Agent-A's debate topics, if existing.`
-- Agent-B, It's time to close the debate.
+
+It's time to close the debate.
 Have you exhaustively presented your arguments?
 - If Yes, please say, 'I am ready to deliver my closing statements.'
 - If No, please provide your arguments on the five debate topics.
