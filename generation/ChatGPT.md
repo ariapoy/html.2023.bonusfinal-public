@@ -14,7 +14,7 @@ I’m organizing a committee to engage in debates on various subjects. As the mo
 
 ## Announce the subject of the debate
 ### A
-Agent-A, we are in the process of selecting a suitable subject for debate. What do you think of “” as a balanced subject for our debate contest?
+Agent-A, we are in the process of selecting a suitable subject for debate. What do you think of “`subject`” as a balanced subject for our debate contest?
 ### B
 Agent-B, we are in the process of selecting a suitable subject for debate. What do you think of “`subject`” as a balanced subject for our debate contest?
 
