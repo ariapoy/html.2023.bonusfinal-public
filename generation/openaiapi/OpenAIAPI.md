@@ -2,7 +2,7 @@
 
 ## Configuration
 
-- GPT-3.5 and GPT-4. **WARNING!** OpenAI charges us for GPT-4.
+- GPT-3.5, GPT-4, ane etc (Please see <https://platform.openai.com/docs/guides/text-generation>). **WARNING!** OpenAI charges us for API.
 - Argument strength of `agentA-arguStre` Agent-A and `agentB-arguStre` Agent-B.
 - `subject` e.g., "Should we regulate the use of large language models in education and research?"
 
