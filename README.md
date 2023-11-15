@@ -2,6 +2,8 @@
 
 ### News
 
+- 2023/11/15 Demo slides <https://docs.google.com/presentation/d/1G_LiXwuL2fElxbDcWaRkiIpAka0ZHwDYm9zTdwbsw0o/edit?usp=sharing>
+
 ## Description
 The repository is a tutorial for the bonus track final project to the learners of the NTU course. 
 - Useful Links:
