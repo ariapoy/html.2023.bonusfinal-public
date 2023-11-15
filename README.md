@@ -70,6 +70,8 @@ Our teaching team strongly recommends you review SocraSynth papers on the websit
 
 Please see *qa/README.md*.
 
+If you encounter any issues, please contact the TA team with the title \[HTML final bonus track\].
+
 ## Acknowledgement
 
 Our teaching team thanks Prof. Edward Y. Chang for proposing the initial idea of leveraging SocraSynth as a final project direction and for his continuous inspiration and support. We also thank several NTU CLLab members, including but not limited to Hsiu-Hsuan Wang, Si-An Chen, and Cheng-Yin Chang, for their help on running this bonus track.
