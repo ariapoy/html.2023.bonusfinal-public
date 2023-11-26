@@ -2,11 +2,14 @@
 
 ### News
 
+- 2023/11/26 We add the **Chat UI** playground to let you play the different configurations of large lagnguage models (LLMs) for Agent-A and Agent-B.
+    - Please see the *ChatUI/README.md* or demo slides.
 - 2023/11/15 Demo slides <https://docs.google.com/presentation/d/1G_LiXwuL2fElxbDcWaRkiIpAka0ZHwDYm9zTdwbsw0o/edit?usp=sharing>
 
 ## Description
 The repository is a tutorial for the bonus track final project to the learners of the NTU course. 
 - Useful Links:
+    - Demo slides: <https://docs.google.com/presentation/d/1G_LiXwuL2fElxbDcWaRkiIpAka0ZHwDYm9zTdwbsw0o/edit?usp=sharing>
     - Course Website: [from the lecturer's homepage](https://www.csie.ntu.edu.tw/~htlin/course/ml23fall/)
     - Final Project Bonus Track Guildlines: <https://www.csie.ntu.edu.tw/~htlin/course/ml23fall/final/bonus.pdf>
     - SocraSynth: Socratic Synthesis for Reasoning and Decision Making: <https://www.researchgate.net/publication/373753725_SocraSynth_Socratic_Synthesis_for_Reasoning_and_Decision_Making>
@@ -33,7 +36,7 @@ Note. The *subjects-private.csv* will be released later.
     - **Browse CSV file**: upload your submission with the valid format as below. Please check *aa.csv*.
 3. Please wait several minutes and refresh the page after the evaluation.
 4. You can view the CRIT log in detail after clicking the link.
-    - If you discover the error of CRIT score, please send the mail to the <lab536@csie.ntu.edu.tw>.
+    - If you discover the error of CRIT score, please send the mail to the <html_ta@csie.ntu.edu.tw>.
 
 ### Submission format
 
