@@ -1,0 +1,3 @@
+- Please see demo slides. <https://docs.google.com/presentation/d/1G_LiXwuL2fElxbDcWaRkiIpAka0ZHwDYm9zTdwbsw0o/edit?usp=sharing>
+- The prompt template is the same as the ChatGPT.
+- If you encounter any issue, please reply to <html_ta@csie.ntu.edu.tw>
