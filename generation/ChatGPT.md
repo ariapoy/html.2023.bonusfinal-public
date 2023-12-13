@@ -53,12 +53,12 @@ Please identify and refine the list of five to be somehow overlapping.
 ## represents the proponent and opponent of the debate subject
 ### A
 Agent-A, these are topics of the debate:
-`copy and paste overlapping five topics`
+`copy and paste Agent-A's and Agent-B's five topics.`
 
 Please represent the proponent of the debate topics and show your perspectives in one sentence.
 ### B
 Agent-B, these are topics of the debate:
-`copy and paste overlapping five topics`
+`copy and paste Agent-B's and Agent-A's five topics.`
 
 Please represent the opponent of the debate topics and show your perspectives in one sentence.
 
