@@ -2,6 +2,7 @@
 
 ### News
 
+- 2023/12/20 We add the **private subjects (test set)** for this track.
 - 2023/11/26 We add the **Chat UI** playground to let you play the different configurations of large lagnguage models (LLMs) for Agent-A and Agent-B.
     - Please see the *ChatUI/README.md* or demo slides.
 - 2023/11/15 Demo slides <https://docs.google.com/presentation/d/1G_LiXwuL2fElxbDcWaRkiIpAka0ZHwDYm9zTdwbsw0o/edit?usp=sharing>
